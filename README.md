@@ -41,8 +41,8 @@ I'm a **Full Stack Developer** passionate about building web and mobile applicat
 
 ## 💼 Projects
 
-- **E-commerce & Asset Management Web Store**  
-  Developed a full-stack web application using ReactJS and NodeJS, deployed on AWS. Integrated asset management features for efficient inventory tracking.
+- **E-commerce & Asset Management Web Store**
+  Developed a full-stack web application using ReactJS and NodeJS, deployed on AWS. Integrated asset management features for efficient inventory tracking. [Visit Site](https://rimastores.com)
 
 - **IBM Hackathon - UNICHAT**  
   Created a chat application for event management with real-time messaging and event suggestions using React and OpenAI API.
